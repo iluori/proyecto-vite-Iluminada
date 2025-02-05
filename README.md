@@ -2,8 +2,11 @@
 ## Parte 1: Configuración Inicial
 Crear un nuevo repositorio en GitHub llamado "proyecto-vite-[tunombre]"
 ![Texto alternativo](img/Picture1.png)
+
 Crear un directorio local para el proyecto:
+
 ![Texto alternativo](img/Picture2.png)
+
 Inicializar un proyecto con Vite:
 ![Texto alternativo](img/Picture3.png)
 Iniciarlizar Git en el directorio local, realizando el primer commit:
