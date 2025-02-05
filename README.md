@@ -18,6 +18,8 @@ Iniciarlizar Git en el directorio local, realizando el primer commit:
 Conectar el repositorio local con Github:
 ![Texto alternativo](img/Picture6.png)
 
+## Parte 2: Trabajo con ramas
+
 Crear dos ramas nuevas:
   1. Desarollo (para desarollo general)
   2. feature-ui (para cambios en la interfaz)
@@ -39,6 +41,8 @@ En la rama desarrollo:
 ![Texto alternativo](img/Picture14.png)
 ![Texto alternativo](img/Picture15.png)
 ![Texto alternativo](img/Picture16.png)
+
+## Parte 3: Colaboración
 
 Añadir colaborados al repositorio: Ir a Settings > Collaborators
 Añadir al profesor usando su usuario de Github.
@@ -103,6 +107,8 @@ Realizar el merge:
   2. Confirmar el merge
   3. Borrar la rama del colaborador si ya no se necesita
 **Esta parte no la hice porque no me dio tiempo a contactar con ningún compañero**
+
+## Parte 4: Integración final
 
 Realizar merge de la rama desarrollo a main:
 ![Texto alternativo](img/Picture31.png)
